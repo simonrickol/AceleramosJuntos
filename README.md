@@ -1,2 +1,0 @@
-# AceleramosJuntos
-personal blog
